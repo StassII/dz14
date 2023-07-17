@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.block1{
+    width: 20%;
+    height: 700px;
+    background: turquoise;
+}
+.block2{
+    width: 50%;
+    height: 700px;
+    background: rebeccapurple
+}
